@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/OrderHistory/QRViewController.m \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/OrderHistory/QRViewController.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/OrderHistory/OrderHistoryViewController.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ViewController.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/NSDictionary+NullReplacement.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/NavigationDrawer/KYDrawerController.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/Utils.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/Reachability.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/Constants.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/APIManager/APIManager.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/SVProgressHUD/SVProgressHUD.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/Menu/MenuTableViewController.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/Menu/MenuTableViewCell.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/OrderHistory/OrderHistoryDetailTableViewCell.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/SDWebImage/UIImageView+WebCache.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/SDWebImage/SDWebImageCompat.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/SDWebImage/SDWebImageManager.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/SDWebImage/SDWebImageOperation.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/SDWebImage/SDWebImageDownloader.h \
+  /Users/fnspl/Desktop/HiplaRetail_23-2-18/HiplaRetail/ExternalClass/SDWebImage/SDImageCache.h

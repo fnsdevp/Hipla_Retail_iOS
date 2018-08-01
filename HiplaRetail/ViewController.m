@@ -18,6 +18,12 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
+- (IBAction)clickedOpen:(id)sender {
+    
+    KYDrawerController *elDrawer = (KYDrawerController*)self.navigationController.parentViewController;
+    
+    [elDrawer setDrawerState:KYDrawerControllerDrawerStateOpened animated:YES];
+}
 
 
 - (void)didReceiveMemoryWarning {

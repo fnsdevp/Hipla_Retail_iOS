@@ -7,9 +7,18 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NSDictionary+NullReplacement.h"
+#import "KYDrawerController.h"
+#import "Utils.h"
+#import "APIManager.h"
+#import "SVProgressHUD.h"
 
-@interface ViewController : UIViewController
+@class KYDrawerController;
 
+@interface ViewController : UIViewController{
+    
+}
+@property (weak, nonatomic) KYDrawerController *elDrawer;
 
 @end
 
